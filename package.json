@@ -1,0 +1,23 @@
+{
+  "name": "smokescreen",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blahkheart/SmokeScreen.git"
+  },
+  "author": "Alex Baxter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blahkheart/SmokeScreen/issues"
+  },
+  "homepage": "https://github.com/blahkheart/SmokeScreen#readme"
+}
