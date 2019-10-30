@@ -1,2 +1,2 @@
 # SmokeScreen
-my first go at a responsive landing page
+this project is intended to make a smoke on the screen of your laptop
